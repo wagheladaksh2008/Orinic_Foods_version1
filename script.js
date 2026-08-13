@@ -54,7 +54,7 @@ const products = {
     images:[
     "images/Coco_pro.png",
     "images/Coco_image.png",
-    "images/Coco_info.png"
+    "images/coco_info.png"
     ],
     tagline: "Rich Cocoa. Light Crunch.",
     description:
